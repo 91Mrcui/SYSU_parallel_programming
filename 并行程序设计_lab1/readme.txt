@@ -1,0 +1,3 @@
+mpi_gemm_1.cpp是点对点通信的MPI矩阵乘法程序
+mpi_gemm_2.cpp是集合通信的MPI矩阵乘法程序
+lib_code中为生成动态链接库的程序
